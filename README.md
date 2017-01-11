@@ -11,9 +11,9 @@
 * afficher `"fizzbuzz"` si l'entier est un multiple de `3` et de `5`
 * afficher le `nombre` si l'entier est n'est pas un multiple de `3` ou `5`
 
-## Exemples
+## Exemples //à modif
 
-```java //à modif
+```java
 fizzbuzz(2) => 2
 fizzbuzz(5) => "buzz"
 fizzbuzz(6) => "fizz"
@@ -23,7 +23,7 @@ fizzbuzz(30) => "fizzbuzz"
 
 ## GO, GO, GO !
 
-Que la force soit avec vous :space_invader: !
+Que la force soit avec vous !
 
 ## Pour allez plus loin..// à modif
 
